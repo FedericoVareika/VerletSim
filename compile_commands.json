@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/fede/Desktop/SFML/VerletIntegration/VerletSim/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DSFML_STATIC -I/Users/fede/Desktop/SFML/VerletIntegration/VerletSim/build/_deps/sfml-src/include -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -F/Users/fede/Desktop/SFML/VerletIntegration/VerletSim/build/_deps/sfml-src/extlibs/libs-osx/Frameworks  -o CMakeFiles/CMakeSFMLProject.dir/src/main.cpp.o -c /Users/fede/Desktop/SFML/VerletIntegration/VerletSim/src/main.cpp",
+  "file": "/Users/fede/Desktop/SFML/VerletIntegration/VerletSim/src/main.cpp",
+  "output": "CMakeFiles/CMakeSFMLProject.dir/src/main.cpp.o"
+}
+]
